@@ -6,6 +6,7 @@ This repository contains an Excel-based implementation of the Binomial Option Pr
 <br>
 Binomial Option Pricing Model.xlsx – A fully functional Excel model implementing the binomial tree approach for option pricing. It includes built-in formulas and calculations, making it easy to follow and modify.
 <br>
+<br>
 📌 Key Features
 <br>
 ✅ Step-by-step binomial tree construction for option valuation
@@ -27,6 +28,7 @@ Download the Excel file.
 Modify input parameters such as stock price, volatility, and time to expiration.
 Observe the binomial tree calculations, tracking price evolution and option payoffs.
 Analyze different scenarios by adjusting parameters and studying option behavior.
+<br>
 <br>
 📈 Applications
 <br>
